@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋! I'm Karim Sakr</h1>
-<h3 align="center">A passionate *Mobile Developer* based in Lebanon</h3>
+<h3 align="center">A passionate Mobile Developer based in Lebanon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimsakr&label=Profile%20views&color=0e75b6&style=flat" alt="karimsakr" /> </p>
 
