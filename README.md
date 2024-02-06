@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimsakr&label=Profile%20views&color=0e75b6&style=flat" alt="karimsakr" /> </p>
 
-- 🔭 I’m currently working on a **Tracking Platform**
+- 🔭 I’m currently working on a **Tracking and Social Media Platform**
 
 - 🌱 I’m currently learning **iOS Development and Android Development**
 
