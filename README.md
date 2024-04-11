@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **iOS Development and Android Development**
 
-- 💬 Ask me about **Swift, SwiftUI, UIKit, Combine, RxSwift**
+- 💬 Ask me about **Mobile Development**
 
 - 📫 How to reach me **karimsakr000@gmail.com**
 
@@ -19,11 +19,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karimsakr&show_icons=true&locale=en&layout=compact" alt="karimsakr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimsakr&show_icons=true&locale=en" alt="karimsakr" /></p>
-
-<!---
-KarimSakr/KarimSakr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <!---
 KarimSakr/KarimSakr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
